@@ -1,6 +1,7 @@
 ## Description
 
-It is a OIDC demo which authenticate users from microsoft, get the user's data from Microsoft Graph REST API, and display them on the home page. I didn't spent much time on the design, only applied basic CSS styling.
+It is a OIDC demo which authenticate users from microsoft, get the user's data from [Microsoft Graph REST API](https://learn.microsoft.com/en-us/graph/api/user-get?view=graph-rest-1.0&tabs=http), and display them on the home page.
+I didn't spend too much time on the design, only applied some CSS for basic styling.
 
 ## Instruction on how to build and deploy the application.
 
